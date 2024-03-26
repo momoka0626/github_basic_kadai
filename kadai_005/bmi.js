@@ -1,2 +1,6 @@
-let BMI = 68 / 1.7 ** 2;
-console.log(BMI)
+const BMI = 68 / 1.7 ** 2;
+let weight;
+let height;
+
+console.log(BMI);
+
