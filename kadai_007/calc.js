@@ -1,4 +1,4 @@
-let num = 25;
+let num = 30;
 
 if (num % 3 === 0) {
     console.log('3の倍数です');
